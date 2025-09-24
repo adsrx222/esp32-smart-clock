@@ -1,8 +1,0 @@
- [wokwi]
-version = 1
-firmware = "/Users/adithyasridhar/Documents/PlatformIO/Projects/esp32-smart-board/.pio/build/esp32doit-devkit-v1/firmware.elf"
-
-# Forward http://localhost:8180 to port 80 on the simulated ESP32:
-[[net.forward]]
-from = "localhost:8180"
-to = "target:80"
