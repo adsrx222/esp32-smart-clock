@@ -40,4 +40,4 @@ This Arduino project connects to Wi-Fi, fetches weather data from the U.S. Natio
 
 ## API Source
 
-The weather data is fetched from:
+The weather data is fetched from: https://api.weather.gov/
